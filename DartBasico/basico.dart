@@ -67,4 +67,10 @@ void main(){
     i += 1;
     print(i);
   }
+
+  int xx = 0;
+  do{
+    print(xx);
+    xx ++;
+  }while(xx < 10);
 }
